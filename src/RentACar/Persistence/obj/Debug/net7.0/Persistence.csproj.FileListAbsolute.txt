@@ -1,0 +1,12 @@
+C:\Users\mrtag\source\repos\CleanArchitecture\src\RentACar\Persistence\bin\Debug\net7.0\Persistence.deps.json
+C:\Users\mrtag\source\repos\CleanArchitecture\src\RentACar\Persistence\bin\Debug\net7.0\Persistence.dll
+C:\Users\mrtag\source\repos\CleanArchitecture\src\RentACar\Persistence\bin\Debug\net7.0\Persistence.pdb
+C:\Users\mrtag\source\repos\CleanArchitecture\src\RentACar\Persistence\obj\Debug\net7.0\Persistence.csproj.AssemblyReference.cache
+C:\Users\mrtag\source\repos\CleanArchitecture\src\RentACar\Persistence\obj\Debug\net7.0\Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mrtag\source\repos\CleanArchitecture\src\RentACar\Persistence\obj\Debug\net7.0\Persistence.AssemblyInfoInputs.cache
+C:\Users\mrtag\source\repos\CleanArchitecture\src\RentACar\Persistence\obj\Debug\net7.0\Persistence.AssemblyInfo.cs
+C:\Users\mrtag\source\repos\CleanArchitecture\src\RentACar\Persistence\obj\Debug\net7.0\Persistence.csproj.CoreCompileInputs.cache
+C:\Users\mrtag\source\repos\CleanArchitecture\src\RentACar\Persistence\obj\Debug\net7.0\Persistence.dll
+C:\Users\mrtag\source\repos\CleanArchitecture\src\RentACar\Persistence\obj\Debug\net7.0\refint\Persistence.dll
+C:\Users\mrtag\source\repos\CleanArchitecture\src\RentACar\Persistence\obj\Debug\net7.0\Persistence.pdb
+C:\Users\mrtag\source\repos\CleanArchitecture\src\RentACar\Persistence\obj\Debug\net7.0\ref\Persistence.dll

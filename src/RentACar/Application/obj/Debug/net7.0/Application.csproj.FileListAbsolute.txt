@@ -1,0 +1,12 @@
+C:\Users\mrtag\source\repos\CleanArchitecture\src\RentACar\Application\bin\Debug\net7.0\Application.deps.json
+C:\Users\mrtag\source\repos\CleanArchitecture\src\RentACar\Application\bin\Debug\net7.0\Application.dll
+C:\Users\mrtag\source\repos\CleanArchitecture\src\RentACar\Application\bin\Debug\net7.0\Application.pdb
+C:\Users\mrtag\source\repos\CleanArchitecture\src\RentACar\Application\obj\Debug\net7.0\Application.csproj.AssemblyReference.cache
+C:\Users\mrtag\source\repos\CleanArchitecture\src\RentACar\Application\obj\Debug\net7.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mrtag\source\repos\CleanArchitecture\src\RentACar\Application\obj\Debug\net7.0\Application.AssemblyInfoInputs.cache
+C:\Users\mrtag\source\repos\CleanArchitecture\src\RentACar\Application\obj\Debug\net7.0\Application.AssemblyInfo.cs
+C:\Users\mrtag\source\repos\CleanArchitecture\src\RentACar\Application\obj\Debug\net7.0\Application.csproj.CoreCompileInputs.cache
+C:\Users\mrtag\source\repos\CleanArchitecture\src\RentACar\Application\obj\Debug\net7.0\Application.dll
+C:\Users\mrtag\source\repos\CleanArchitecture\src\RentACar\Application\obj\Debug\net7.0\refint\Application.dll
+C:\Users\mrtag\source\repos\CleanArchitecture\src\RentACar\Application\obj\Debug\net7.0\Application.pdb
+C:\Users\mrtag\source\repos\CleanArchitecture\src\RentACar\Application\obj\Debug\net7.0\ref\Application.dll
