@@ -1,11 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "6JWMy7Eptu1zUKzZN5H7ACSFLRrb62m/+i6Fhb3Df5sPNC0xLqD5QK1gOlRRopWHQPPNzkVp5HcA5lzIaMapuQ==",
+  "dgSpecHash": "YKUOhQao8KnH6ZRPxBZkhq5l7JVnMRoW9D+QI2xFAQyHdfGNZZL8gk5dkVe6kyhkHdvKZ6X8WKWCRP6ZI3eE3g==",
   "success": true,
   "projectFilePath": "C:\\Users\\mrtag\\source\\repos\\CleanArchitecture\\src\\RentACar\\Application\\Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\mrtag\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\mrtag\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
+    "C:\\Users\\mrtag\\.nuget\\packages\\fluentvalidation\\11.7.1\\fluentvalidation.11.7.1.nupkg.sha512",
+    "C:\\Users\\mrtag\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\11.7.1\\fluentvalidation.dependencyinjectionextensions.11.7.1.nupkg.sha512",
     "C:\\Users\\mrtag\\.nuget\\packages\\mediatr\\12.1.1\\mediatr.12.1.1.nupkg.sha512",
     "C:\\Users\\mrtag\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
     "C:\\Users\\mrtag\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",

@@ -19,3 +19,5 @@ C:\Users\mrtag\source\repos\CleanArchitecture\src\RentACar\Persistence\bin\Debug
 C:\Users\mrtag\source\repos\CleanArchitecture\src\RentACar\Persistence\obj\Debug\net7.0\Persistence.csproj.CopyComplete
 C:\Users\mrtag\source\repos\CleanArchitecture\src\RentACar\Persistence\bin\Debug\net7.0\Core.Application.dll
 C:\Users\mrtag\source\repos\CleanArchitecture\src\RentACar\Persistence\bin\Debug\net7.0\Core.Application.pdb
+C:\Users\mrtag\source\repos\CleanArchitecture\src\RentACar\Persistence\bin\Debug\net7.0\Core.CrossCuttingConcerns.dll
+C:\Users\mrtag\source\repos\CleanArchitecture\src\RentACar\Persistence\bin\Debug\net7.0\Core.CrossCuttingConcerns.pdb

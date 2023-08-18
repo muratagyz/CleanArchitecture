@@ -7,11 +7,20 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Folder Include="Pipelines\Transaction\" />
+    <Folder Include="Pipelines\Validation\" />
+    <Folder Include="Rules\" />
     <Folder Include="Responses\" />
     <Folder Include="Requests\" />
   </ItemGroup>
 
   <ItemGroup>
+    <PackageReference Include="FluentValidation" Version="11.7.1" />
+    <PackageReference Include="MediatR" Version="12.1.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Core.CrossCuttingConcerns\Core.CrossCuttingConcerns.csproj" />
     <ProjectReference Include="..\Core.Persistence\Core.Persistence.csproj" />
   </ItemGroup>
 

@@ -17,3 +17,5 @@ C:\Users\mrtag\source\repos\CleanArchitecture\src\RentACar\Application\bin\Debug
 C:\Users\mrtag\source\repos\CleanArchitecture\src\RentACar\Application\obj\Debug\net7.0\Application.csproj.CopyComplete
 C:\Users\mrtag\source\repos\CleanArchitecture\src\RentACar\Application\bin\Debug\net7.0\Core.Application.dll
 C:\Users\mrtag\source\repos\CleanArchitecture\src\RentACar\Application\bin\Debug\net7.0\Core.Application.pdb
+C:\Users\mrtag\source\repos\CleanArchitecture\src\RentACar\Application\bin\Debug\net7.0\Core.CrossCuttingConcerns.dll
+C:\Users\mrtag\source\repos\CleanArchitecture\src\RentACar\Application\bin\Debug\net7.0\Core.CrossCuttingConcerns.pdb

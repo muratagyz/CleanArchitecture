@@ -13,11 +13,18 @@
     <Folder Include="Features\Brands\Queries\GetById\" />
     <Folder Include="Features\Brands\Rules\" />
     <Folder Include="Features\Brands\Profiles\" />
+    <Folder Include="Features\Models\Commands\" />
+    <Folder Include="Features\Models\Constants\" />
+    <Folder Include="Features\Models\Profiles\" />
+    <Folder Include="Features\Models\Queries\GetList\" />
+    <Folder Include="Features\Models\Queries\GetListByDynamic\" />
+    <Folder Include="Features\Models\Rules\" />
     <Folder Include="Services\Repositories\" />
   </ItemGroup>
 
   <ItemGroup>
     <PackageReference Include="AutoMapper.Extensions.Microsoft.DependencyInjection" Version="12.0.1" />
+    <PackageReference Include="FluentValidation.DependencyInjectionExtensions" Version="11.7.1" />
     <PackageReference Include="MediatR" Version="12.1.1" />
     <PackageReference Include="Microsoft.EntityFrameworkCore" Version="7.0.10" />
   </ItemGroup>
@@ -29,6 +36,9 @@
   <ItemGroup>
     <Reference Include="Core.Application">
       <HintPath>..\..\CorePackages\Core.Application\bin\Debug\net7.0\Core.Application.dll</HintPath>
+    </Reference>
+    <Reference Include="Core.CrossCuttingConcerns">
+      <HintPath>..\..\CorePackages\Core.CrossCuttingConcerns\bin\Debug\net7.0\Core.CrossCuttingConcerns.dll</HintPath>
     </Reference>
     <Reference Include="Core.Persistence">
       <HintPath>..\..\CorePackages\Core.Persistence\bin\Debug\net7.0\Core.Persistence.dll</HintPath>
